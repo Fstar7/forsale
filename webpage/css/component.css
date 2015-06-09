@@ -408,3 +408,12 @@
 /*----------------------------------------------------------------*/
 /*                 END OF THE FORM                                */
 /*----------------------------------------------------------------*/
+
+
+.swag { background: url('../images/car.jpg') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; background-attachment: fixed; padding: 60px 0; }
+.swag h1 { color: #fff; /*text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;*/ font-size: 40px; text-transform: uppercase; letter-spacing: 5px; text-align: center;}
+
+
+/*----------------------------------------------------------------*/
+/*                 END OF THE SWAD                             */
+/*----------------------------------------------------------------*/
